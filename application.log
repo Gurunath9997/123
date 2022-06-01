@@ -1,0 +1,51 @@
+2022-05-29 09:11:29,420  INFO [TestNG-test=Test-1] SauceDemoProject12FebBatchv1:41 - browser open
+2022-05-29 09:11:31,124  INFO [TestNG-test=Test-3] SauceDemoProject12FebBatchv1:41 - browser open
+2022-05-29 09:11:42,490  INFO [TestNG-test=Test-2] SauceDemoProject12FebBatchv1:45 - URL is opened
+2022-05-29 09:11:43,019  INFO [TestNG-test=Test-4] SauceDemoProject12FebBatchv1:45 - URL is opened
+2022-05-29 09:11:44,091  INFO [TestNG-test=Test-1] SauceDemoProject12FebBatchv1:45 - URL is opened
+2022-05-29 09:11:46,127  INFO [TestNG-test=Test-3] SauceDemoProject12FebBatchv1:45 - URL is opened
+2022-05-29 09:11:50,190  INFO [TestNG-test=Test-1] SauceDemoProject12FebBatchv1:52 - Enter the username
+2022-05-29 09:11:50,236  INFO [TestNG-test=Test-2] SauceDemoProject12FebBatchv1:52 - Enter the username
+2022-05-29 09:11:52,236  INFO [TestNG-test=Test-3] SauceDemoProject12FebBatchv1:52 - Enter the username
+2022-05-29 09:11:54,052  INFO [TestNG-test=Test-1] SauceDemoProject12FebBatchv1:55 - Enter the password
+2022-05-29 09:11:54,061  INFO [TestNG-test=Test-2] SauceDemoProject12FebBatchv1:55 - Enter the password
+2022-05-29 09:11:54,386  INFO [TestNG-test=Test-3] SauceDemoProject12FebBatchv1:55 - Enter the password
+2022-05-29 09:11:55,435  INFO [TestNG-test=Test-4] SauceDemoProject12FebBatchv1:52 - Enter the username
+2022-05-29 09:11:57,362  INFO [TestNG-test=Test-4] SauceDemoProject12FebBatchv1:55 - Enter the password
+2022-05-29 09:11:57,758  INFO [TestNG-test=Test-3] SauceDemoProject12FebBatchv1:58 - CLick on login button
+2022-05-29 09:12:00,720  INFO [TestNG-test=Test-1] SauceDemoProject12FebBatchv1:58 - CLick on login button
+2022-05-29 09:12:01,642  INFO [TestNG-test=Test-1] SauceDemoProject12FebBatchv1:29 - Verify the test case
+2022-05-29 09:12:02,136  INFO [TestNG-test=Test-4] SauceDemoProject12FebBatchv1:58 - CLick on login button
+2022-05-29 09:12:02,698  INFO [TestNG-test=Test-2] SauceDemoProject12FebBatchv1:58 - CLick on login button
+2022-05-29 09:12:05,282  INFO [TestNG-test=Test-1] SauceDemoProject12FebBatchv1:39 - Clicked on menu button
+2022-05-29 09:12:05,979  INFO [TestNG-test=Test-1] SauceDemoProject12FebBatchv1:42 - Clicked on logout button
+2022-05-29 09:12:07,573  INFO [TestNG-test=Test-4] SauceDemoProject12FebBatchv1:66 - End of program
+2022-05-29 09:12:07,759  INFO [TestNG-test=Test-2] SauceDemoProject12FebBatchv1:66 - End of program
+2022-05-29 09:12:08,193  INFO [TestNG-test=Test-1] SauceDemoProject12FebBatchv1:66 - End of program
+2022-05-29 09:12:08,241  INFO [TestNG-test=Test-3] SauceDemoProject12FebBatchv1:66 - End of program
+2022-05-29 09:14:55,894  INFO [main] SauceDemoProject12FebBatchv1:45 - URL is opened
+2022-05-29 09:14:57,080  INFO [main] SauceDemoProject12FebBatchv1:52 - Enter the username
+2022-05-29 09:14:57,724  INFO [main] SauceDemoProject12FebBatchv1:55 - Enter the password
+2022-05-29 09:14:58,541  INFO [main] SauceDemoProject12FebBatchv1:58 - CLick on login button
+2022-05-29 09:14:58,965  INFO [main] SauceDemoProject12FebBatchv1:29 - Verify the test case
+2022-05-29 09:15:00,376  INFO [main] SauceDemoProject12FebBatchv1:39 - Clicked on menu button
+2022-05-29 09:15:00,792  INFO [main] SauceDemoProject12FebBatchv1:42 - Clicked on logout button
+2022-05-29 09:15:01,681  INFO [main] SauceDemoProject12FebBatchv1:66 - End of program
+2022-05-29 09:15:06,200  INFO [main] SauceDemoProject12FebBatchv1:41 - browser open
+2022-05-29 09:15:08,224  INFO [main] SauceDemoProject12FebBatchv1:45 - URL is opened
+2022-05-29 09:15:08,803  INFO [main] SauceDemoProject12FebBatchv1:52 - Enter the username
+2022-05-29 09:15:09,256  INFO [main] SauceDemoProject12FebBatchv1:55 - Enter the password
+2022-05-29 09:15:10,471  INFO [main] SauceDemoProject12FebBatchv1:58 - CLick on login button
+2022-05-29 09:15:13,266  INFO [main] SauceDemoProject12FebBatchv1:66 - End of program
+2022-05-29 09:15:16,788  INFO [main] SauceDemoProject12FebBatchv1:41 - browser open
+2022-05-29 09:15:18,889  INFO [main] SauceDemoProject12FebBatchv1:45 - URL is opened
+2022-05-29 09:15:19,501  INFO [main] SauceDemoProject12FebBatchv1:52 - Enter the username
+2022-05-29 09:15:20,128  INFO [main] SauceDemoProject12FebBatchv1:55 - Enter the password
+2022-05-29 09:15:22,103  INFO [main] SauceDemoProject12FebBatchv1:58 - CLick on login button
+2022-05-29 09:15:24,410  INFO [main] SauceDemoProject12FebBatchv1:66 - End of program
+2022-05-29 09:15:27,762  INFO [main] SauceDemoProject12FebBatchv1:41 - browser open
+2022-05-29 09:15:30,072  INFO [main] SauceDemoProject12FebBatchv1:45 - URL is opened
+2022-05-29 09:15:30,594  INFO [main] SauceDemoProject12FebBatchv1:52 - Enter the username
+2022-05-29 09:15:31,021  INFO [main] SauceDemoProject12FebBatchv1:55 - Enter the password
+2022-05-29 09:15:32,025  INFO [main] SauceDemoProject12FebBatchv1:58 - CLick on login button
+2022-05-29 09:15:36,222  INFO [main] SauceDemoProject12FebBatchv1:66 - End of program
